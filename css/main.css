@@ -1,4 +1,28 @@
-* {
-  margin: 0px;
-  padding: 0px;
+/* Containers */
+#mainContainer {
+  background-color: green;
+}
+
+#musicContainer{
+  background-color: red;
+
+}
+#videoContainer{
+  background-color: blue;
+
+}
+#webdevContainer{
+  background-color: yellow;
+
+}
+
+/* Headlines */
+#mainstart {
+  width: 500px;
+}
+#musicStart {
+}
+#videosStart {
+}
+#webdevStart {
 }
